@@ -1,5 +1,5 @@
 function mostrarMensaje() {
-    alert("Hola! Buienvendios");
+    alert("Hola! Bienvendios");
 }
 // Validación de formulario
 const form = document.getElementById('contactForm');
